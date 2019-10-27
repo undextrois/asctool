@@ -1,0 +1,6 @@
+/Users/apsmith/Projects/asctool/asctool/obj/x86/Debug/.NETFramework,Version=v4.0.AssemblyAttribute.cs
+/Users/apsmith/Projects/asctool/asctool/bin/Debug/asctool.exe.mdb
+/Users/apsmith/Projects/asctool/asctool/bin/Debug/asctool.exe
+/Users/apsmith/Projects/asctool/asctool/obj/x86/Debug/asctool.exe
+/Users/apsmith/Projects/asctool/asctool/obj/x86/Debug/asctool.exe.mdb
+/Users/apsmith/Projects/asctool/asctool/bin/Debug/NDesk.Options.dll
